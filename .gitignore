@@ -37,3 +37,8 @@ Thumbs.db
 *.tmp
 *.temp
 build/
+
+# JMeter generated artifacts
+jmeter/reports/
+jmeter/results/
+jmeter/RESULTADOS.md
